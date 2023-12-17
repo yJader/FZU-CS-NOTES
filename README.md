@@ -8,9 +8,11 @@
 
 笔记内容根据课程PPT整理
 
-
+笔记内容较多, 善用大纲和CtrlF进行跳转
 
 ## 笔记目录
 
 - [图形学](./graphics/图形学.md)
 - [数据库系统原理](./database system/数据库系统原理.md)
+
+- [操作系统](./operating system/操作系统.md)
