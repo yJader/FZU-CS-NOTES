@@ -12,7 +12,7 @@
 
 ## 笔记目录
 
-- [图形学](./graphics/图形学.md)
-- [数据库系统原理](./database system/数据库系统原理.md)
+- [图形学](./Graphics/图形学.md)
+- [数据库系统原理](./DatabaseSystem/数据库系统原理.md)
 
-- [操作系统](./operating system/操作系统.md)
+- [操作系统](./OperatingSystem/操作系统.md)
