@@ -17,9 +17,12 @@
 - [图形学](./Graphics/图形学.md)
 - [数据库系统原理](./DatabaseSystem/数据库系统原理.md)
 
-- [操作系统](./OperatingSystem/操作系统.md)
+- [操作系统](./OperatingSystem)
+  - [详细版](./OperatingSystem/操作系统.md)
+  - [简答题](./OperatingSystem/简答题 MDver.md)
 
 
-
-
+- [软件工程](./SoftwareEngineering)
+  - [详细版](./SoftwareEngineering/软件工程.md)
+  - [整理](./SoftwareEngineering/一些整理.md)
 
